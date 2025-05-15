@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lakshya
 - 👀 I’m interested in learn and grow
-- 🌱 I’m currently learning data science
 - 📫 reach me by
 Email - lakshyrj21@gmail.com
 
